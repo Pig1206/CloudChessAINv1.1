@@ -1,0 +1,21 @@
+游戏玩法与声明：
+1.游戏名为五子棋，即连成5子者获胜。
+2.每次AI对战与联机对战可以获得相应的云币，云币每满100可以升一级。
+3.联机对战可以用于同一局域网内的两台计算机的对战。
+4.不同的等级可以解锁不同的残局挑战，不同的等级有不同的显示。
+5.游戏使用Minimax+Ahpla-Beta算法，模型选择中，"MNX1.0-..."中的...即表示搜索深度。
+由于搜索深度和计算机CPU限制，每步计算耗时可能会较越长。数据显示，i7下MNX1.0-10每步用时2~3秒，i3下MNX1.0-10每步用时4~7秒。
+6.由于计算机不同，字体显示可能有差异。
+7.本程序仅供游玩与个人学习，不具有商业用途。
+
+Game Rules & Disclaimer:
+1. The game is Gomoku (Five-in-a-Row); the first to connect five pieces in a row wins.
+2. Each AI match and online match earns corresponding Cloud Coins. Every 100 Cloud Coins levels you up by one.
+3. Online matches can be used for two computers to play against each other within the same local network.
+4. Different levels unlock different endgame challenges, and different levels have different visual displays.
+5. The game uses the Minimax + Alpha-Beta algorithm. In the model selection, the number after "MNX1.0-" indicates the search depth.
+Due to search depth and CPU limitations, the computation time per move may vary significantly. 
+Data shows that on an i7 processor, MNX1.0-10 takes approximately 2~3 seconds per move, 
+while on an i3 processor, MNX1.0-10 takes approximately 4~7 seconds per move.
+6. Due to differences in computer configurations, font display may vary.
+7. This program is for entertainment and personal learning only, and is not intended for commercial use.
