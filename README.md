@@ -1,4 +1,4 @@
-云棋AI（CloudChuessAI-Nv1.1）
+云棋AI（CloudChuessAI-Nv1.1）- 开发者：李丰毅
 
 一、项目概述
 
