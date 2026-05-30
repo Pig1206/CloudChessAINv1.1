@@ -137,10 +137,16 @@ AI对战（您是后手）：AI执黑先行。
 
 五、技术栈
 
-编程语言	Python 3.8
-图形界面	Tkinter + PIL（Pillow）
-AI加速	    Cython(c/python)
-网络通信	Socket + threading
-加密算法	hashlib（SHA-512）
-数据存储	JSON文件
-字体渲染	ImageFont（PIL）
+编程语言	   Python 3.8
+
+图形界面	   Tkinter + PIL（Pillow）
+
+AI算法加速  Cython(c/python) [using deepseek to get the methed of making Cython]
+
+网络通信  	 Socket + threading
+
+加密算法	   hashlib（SHA-512）
+
+数据存储  	 JSON文件
+
+字体渲染	   ImageFont（PIL）
